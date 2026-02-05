@@ -1,0 +1,12 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Introduzione Express",
+  "license": "ISC",
+  "author": "Paolo Mucedero",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
